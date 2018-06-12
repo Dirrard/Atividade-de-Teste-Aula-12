@@ -1,0 +1,6 @@
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\bin\Debug\TestProjectAtv12.dll
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\bin\Debug\TestProjectAtv12.pdb
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\obj\Debug\TestProjectAtv12.csprojResolveAssemblyReference.cache
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\obj\Debug\TestProjectAtv12.dll
+E:\3 modulo\Modelagem de Sistemas\TestProjectAtv12\TestProjectAtv12\obj\Debug\TestProjectAtv12.pdb
